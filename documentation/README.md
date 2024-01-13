@@ -22,7 +22,7 @@
 
    4.1. Для базы данных mysql
 
-   <code>java "-Dspring.datasource.url=jdbc:mysql://localhost:3306/app" -jar artifacts/aqa-shop.jar</code>
+   <code>java "-Dspring.datasource.url=jdbc:mysql://localhost:3306/app" -jar aqa-shop.jar</code>
 
    4.2. Для базы данных postgres
 
